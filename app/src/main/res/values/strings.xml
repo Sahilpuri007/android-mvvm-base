@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android MVVM Base</string>
+    <!-- Network Messages-->
+    <string name="network_error">Network Error!</string>
+    <string name="request_timed_out">Request Timed out!</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+
+    <string name="default_notification_channel_id">fcm_default_channel</string>
 </resources>
